@@ -29,6 +29,38 @@ Wireframes include links, buttons, and menus that guide user movement. Navigatio
 ### 3. Content Placement
 This shows where text, images, and media will go. It sets content hierarchy and readability before visuals are finalized.  
 **Example:** A product page with a headline, description, image gallery, and price in a specific order.
+---
+
+## Types of Wireframes
+
+Wireframes can be broadly categorized into two types: **low-fidelity** and **high-fidelity**. Each serves a unique purpose at different stages of the design process.
+
+### ✏️ Low-Fidelity Wireframes
+These are basic, hand-drawn-style or grayscale layouts. They focus on structure and functionality without visual detail.  
+**Used When:**  
+- Early stages of ideation  
+- Quick feedback loops  
+- Brainstorming structure  
+
+**Features:**  
+- Placeholder text (e.g., “Lorem ipsum”)  
+- Boxes to represent images  
+- No styling or color  
+
+###  High-Fidelity Wireframes
+These are detailed and often closely resemble the final UI. They include real text, branding, and some interactivity.  
+**Used When:**  
+- Finalizing designs before development  
+- Presenting to stakeholders  
+- Performing user testing  
+
+**Features:**  
+- Accurate spacing  
+- Fonts, images, colors  
+- Visual hierarchy  
+
+###  Example in This Project
+The wireframe used in this project is a **[low-fidelity wireframe]**, as it focuses on layout and basic functionality without detailed visuals.
 
 ### 4. Functionality
 Wireframes often hint at how components behave — like buttons, forms, or modals — even if it's not interactive yet.  
