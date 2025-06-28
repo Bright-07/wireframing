@@ -67,3 +67,72 @@ Wireframes often hint at how components behave — like buttons, forms, or modal
 **Example:** A login form that includes input fields and a “Forgot Password?” link, showing the flow of user interaction.
 
 These elements come together to shape the user journey and ensure intuitive, user-friendly design.
+---
+
+## Wireframing Tools
+
+There are many tools available for creating wireframes. Some popular options include:
+
+- **Balsamiq** – Great for sketch-style, low-fidelity wireframes
+- **Sketch** – Vector-based design tool popular with Mac users
+- **Adobe XD** – A powerful design and prototyping tool
+- **Figma** – A collaborative, browser-based design platform
+
+###  Why Figma?
+
+Figma is especially powerful for wireframing because:
+
+- It supports **real-time collaboration** — perfect for teams
+- It’s **free to use** with cloud access
+- It allows creation of **both low- and high-fidelity wireframes**
+- It has **component libraries** and plugins to speed up design
+
+Figma is recommended for this project due to its ease of use, accessibility, and wide adoption in the industry.
+---
+
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a critical role in the software development lifecycle. Here's how:
+
+### 1. Saves Time and Cost
+By identifying problems early, teams avoid expensive rework later in development.
+
+### 2. Enhances Communication
+Wireframes act as a visual guide, helping designers, developers, and stakeholders stay aligned.
+
+### 3. Focuses on Usability
+Wireframes emphasize user experience and functionality before focusing on colors or visuals.
+
+### 4. Acts as a Blueprint
+Wireframes guide developers on what to build and how users should interact with the system.
+
+**Example:** A wireframe of a login screen can help developers understand where the input fields go, what validations are required, and where the "Forgot Password?" link should lead.
+
+Wireframing is not just a design activity; it's a **communication, planning, and usability-testing tool**.
+---
+
+## Wireframing in Practice
+
+###  Real-World Scenario
+
+During the design of a mobile food delivery app, wireframing revealed a major issue: users couldn’t find the “Place Order” button quickly on the checkout screen.
+
+###  Problem:
+- The button was placed at the bottom of a long scroll, causing frustration during user testing.
+
+###  How Wireframing Helped:
+- A **low-fidelity wireframe** of the checkout screen was tested with users.
+- Feedback showed the button needed to be higher on the screen.
+- The team revised the layout, moving the button up for better visibility.
+
+###  Impact:
+- Improved task completion time
+- Reduced user frustration
+- Increased customer satisfaction
+
+###  Summary
+
+This scenario shows how early wireframing:
+- Prevents usability issues
+- Informs better design decisions
+- Ensures the final product is user-friendly and intuitive
